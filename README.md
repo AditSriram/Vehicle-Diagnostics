@@ -91,7 +91,3 @@ For the Google Maps integration to work properly, you need to enable the followi
 - Places API
 - Directions API
 - Geocoding API
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
