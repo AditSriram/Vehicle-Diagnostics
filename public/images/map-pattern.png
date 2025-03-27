@@ -1,0 +1,11 @@
+This file needs to be a PNG image file of the map pattern. 
+
+Since we can't directly create binary PNG files here, you should create this file by:
+
+1. Using an online SVG to PNG converter with the SVG we created
+2. Or creating a simple pattern image in an image editor like Photoshop or GIMP
+3. Or downloading a free map pattern image from a site like Freepik or Unsplash
+
+The image should be a subtle map pattern that will be used as a background with low opacity.
+
+Save the PNG file to this path: public/images/map-pattern.png 
